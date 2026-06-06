@@ -1,16 +1,19 @@
-## Hi there 👋
+# systems-arena
 
-<!--
-**dennismuuo-dev/dennismuuo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C · Rust · Spring Boot**
 
-Here are some ideas to get you started:
+Software engineering, not web dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages
+
+- **C** — memory, pointers, systems programming
+- **Rust** — safety, concurrency, zero-cost abstractions  
+- **Java (Spring Boot)** — backend services, JVM, design patterns
+
+---
+
+## No JS. No frontend. No frameworks.
+
+Just engineering.

@@ -5,6 +5,6 @@
 
 **Stack**
 
-`C` `Rust` `Spring Boot` `Java`  
+`C` `Rust` `GO` `Spring Boot` `Java`  
 
 [github.com/dennismutuku2005](https://github.com/dennismutuku2005)

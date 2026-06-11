@@ -1,5 +1,5 @@
 # Dennis Muuo
-**Software Engineer** · Nairobi, KE
+**Software Engineer && Devops Engineer** · Nairobi, KE
 
 ---
 
